@@ -1,6 +1,6 @@
 datasource db {
-  provider = "postgres"
-  url      = env("DATABASE_URL")
+  provider = "postgresql"
+  url      = "postgresql://postgres:12nhRCTKKcCR441ZT4D9@containers-us-west-77.railway.app:5919/railway"
 }
 
 generator client {
@@ -9,7 +9,7 @@ generator client {
 }
 
 model User {
-  id                  String       @id
+  id                  String    @id
   email               String    @unique
   name                String?
   hashedPassword      String
@@ -17,4 +17,3 @@ model User {
   resetToken          String?
   resetTokenExpiresAt DateTime?
 }
-
