@@ -10,7 +10,8 @@
   "devDependencies": {
     "@playwright/test": "1.29.1",
     "@redwoodjs/core": "3.8.0",
-    "enquirer": "2.3.6"
+    "enquirer": "2.3.6",
+    "prettier-plugin-tailwindcss": "^0.2.1"
   },
   "eslintConfig": {
     "extends": "@redwoodjs/eslint-config",

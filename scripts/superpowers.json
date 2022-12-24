@@ -1,14 +1,14 @@
 [
   {
-    "name": "Invisibility",
-    "description": "Become invisible in the blink of an eye and avoid all those pesky people. Warning: overuse may cause one to feel transparent and lost.",
+    "name": "GOLDEN TICKET",
+    "description": " test test.",
     "prices": [
       {
-        "currency": "usd",
+        "currency": "GBP",
         "unit_amount": 200
       },
       {
-        "currency": "usd",
+        "currency": "GBP",
         "unit_amount": 1000,
         "recurring": {
           "interval": "month"
@@ -17,15 +17,15 @@
     ]
   },
   {
-    "name": "Flight",
-    "description": "Fly up to 50m into the sky and reach a maximum speed of 180km/h.",
+    "name": "Silver ticket",
+    "description": " DEad test.",
     "prices": [
       {
-        "currency": "usd",
+        "currency": "GBP",
         "unit_amount": 350
       },
       {
-        "currency": "usd",
+        "currency": "GBP",
         "unit_amount": 1700,
         "recurring": {
           "interval": "month"
@@ -34,15 +34,15 @@
     ]
   },
   {
-    "name": "Folding",
-    "description": "Fold anything in the universe, whether it be laundry or spacetime itself. Disclaimer: May cause a rip in the spacetime continuum if used improperly.",
+    "name": "BRonze ticket ",
+    "description": "Test test.",
     "prices": [
       {
-        "currency": "usd",
+        "currency": "GBP",
         "unit_amount": 500
       },
       {
-        "currency": "usd",
+        "currency": "GBp",
         "unit_amount": 3500,
         "recurring": {
           "interval": "month"
